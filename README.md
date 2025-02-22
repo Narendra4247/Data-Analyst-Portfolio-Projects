@@ -34,6 +34,7 @@ Strengthened expertise in data analysis, financial planning, and business intell
 Enhanced skills in decision-making, automation, and visualization for professional applications.
 Gained practical exposure to real-world financial and business challenges, improving analytical capabilities.
 
+_____________________________________________________________________________________________________________________
 
 **Excel Assignment: Data Manipulation and Working with Tables**
 
