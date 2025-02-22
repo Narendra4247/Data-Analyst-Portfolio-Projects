@@ -33,3 +33,49 @@ Used Conditional Formatting to highlight key trends and variances.
 Strengthened expertise in data analysis, financial planning, and business intelligence using Excel.
 Enhanced skills in decision-making, automation, and visualization for professional applications.
 Gained practical exposure to real-world financial and business challenges, improving analytical capabilities.
+
+
+**Excel Assignment: Data Manipulation and Working with Tables**
+
+**Objective:**
+The assignment focused on efficient data handling, organization, and analysis using Excel tables and advanced data manipulation techniques. It emphasized structuring raw data into meaningful formats, applying formulas, and leveraging built-in Excel features to improve data-driven decision-making.
+
+**Key Components:**
+
+**Data Import, Cleaning & Formatting:**
+Imported raw datasets and converted them into structured Excel tables for better organization.
+Used Text-to-Columns, Flash Fill, and Find & Replace to clean and standardize data.
+Removed duplicates, corrected inconsistencies, and handled missing values to ensure data accuracy.
+
+**Working with Excel Tables:**
+Created structured tables to efficiently store and analyze data.
+Applied Table Formatting, Sorting, and Filtering for quick insights.
+Used Structured References instead of traditional cell references for dynamic calculations.
+
+**Data Manipulation with Formulas & Functions:**
+Implemented LOOKUP functions (VLOOKUP, HLOOKUP, INDEX-MATCH) to extract relevant data.
+Used IF, SUMIF, COUNTIF, and AVERAGEIF for conditional calculations.
+Applied TEXT functions (LEFT, RIGHT, MID, CONCATENATE) to modify and extract text values.
+Leveraged DATE functions (TODAY, EOMONTH, YEAR, MONTH, WEEKDAY) to analyze time-based data.
+
+**Data Summarization with Pivot Tables:**
+Created Pivot Tables to group, summarize, and analyze large datasets efficiently.
+Used Pivot Charts and Slicers for dynamic filtering and visualization.
+Applied Calculated Fields in Pivot Tables to generate new insights.
+
+**Data Validation & Error Handling:**
+Set up Data Validation rules to restrict incorrect entries and maintain data integrity.
+Used Error Handling functions (IFERROR, ISERROR, IFNA) to prevent calculation errors.
+
+**Sorting, Filtering, and Advanced Data Processing:**
+Applied Custom Sorting & Multi-Level Filtering for deeper analysis.
+Used Advanced Filter to extract specific data patterns and trends.
+Implemented Subtotal function to analyze data categories dynamically.
+
+**Outcome & Learning:**
+Improved efficiency in data structuring, manipulation, and analysis using Excel tables.
+Gained hands-on experience in data cleaning, formula-based automation, and visualization techniques.
+Enhanced problem-solving skills by transforming raw datasets into actionable insights.
+Strengthened Excel proficiency for business intelligence, financial analysis, and reporting.*
+
+
