@@ -79,4 +79,8 @@ Gained hands-on experience in data cleaning, formula-based automation, and visua
 Enhanced problem-solving skills by transforming raw datasets into actionable insights.
 Strengthened Excel proficiency for business intelligence, financial analysis, and reporting.*
 
+_________________________________________________________________________________________________________________________________
+
+
+
 
